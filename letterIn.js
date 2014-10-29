@@ -1,4 +1,4 @@
-var app = angular.module("blog");
+var app = angular.module("YOUR_APP");
 
 app.directive('letterIn', function(){
     return{
